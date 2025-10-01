@@ -36,15 +36,8 @@ xarm6-letter-drawing/
 ├── code/
 │   ├── signlan2.py      # Robot control
 │   └── signdetect.py    # Hand gesture detection
-├── docs/
-│   └── demo.gif         # Example of robot drawing
 └── README.md
 ```
-
----
-
-## 📸 Demo
-(*Add a GIF or screenshot of the robot drawing letters here*)
 
 ---
 
